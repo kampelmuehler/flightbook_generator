@@ -1,0 +1,4 @@
+geopy==2.4.1
+overpy==0.7
+pandas==2.1.4
+sv-ttk==2.6.0
